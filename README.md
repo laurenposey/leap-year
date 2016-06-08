@@ -2,7 +2,7 @@
 
 #### _Evaluates year to determine if it is a leap year or not, 7 June 2016_
 
-#### By _**{List of contributors}**_
+#### By _**Lauren Posey & Sky Rousse**_
 
 ## Description
 
@@ -12,10 +12,11 @@ _BDD: this program will handle..._
 * _a year that is divisible by 4: returns true_
 * _a year that is divisible by 100: returns false_
 * _a year that is divisible by 400: returns true_
+* _a negative number or zero: returns false_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_if you have any problems please contact us at mrslaurenposey@gmail.com_
 
 ## Technologies Used
 
@@ -25,4 +26,4 @@ _JavaScript, jQuery, Bootstrap_
 
 *Open Source*
 
-Copyright (c) 2016 **_Lauren Posey and Tony Fabery_**
+Copyright (c) 2016 **_Lauren Posey and Sky Rousse_**
